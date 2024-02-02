@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  script: one
+  page_number: 1
+
+two:
+  script: two
+  page_number: 1
